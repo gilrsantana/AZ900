@@ -884,3 +884,37 @@ Princiapis pontos:
 - **Inovar**: deselvolva novas soluções de nuvem nativas ou híbridas
 - **Controlar**: controle o ambiente e as cargas de trabalho
 - **Gerenciar**: gerenciamento de operações para soluções híbridas e de nuvem
+
+## 5.3. Privacidade e Conformidade
+
+**Segurança**: Intencionalmente seguro. Com segurança inteligente integrada, a Microsoft ajuda a proteger contra ameaças cibernéticas conhecidas e desconhecidas, usando automação e inteligÊncia artificial. 
+
+**Privacidade**: Temos o compromisso de garantir a privacidade das organizações por meio de nossos acordos contratuais e fornecendo controle e transparência ao usuário.
+
+**Conformidade**: Respeitamos legislações e regulamentos locais e fornecemos cobertura abrangente de ofertas de conformidade.
+
+### 5.3.1. Termos e Requisitos de Conformidade
+
+A Microsoft oferece o conjunto mais abrangente de ofertas de conformidade (incluindo certificações e atestados) de qualquer provedor de serviços em nuvem. Algumas ofertas de conformidade incluem:
+|   |   |
+| ---  | ---  |
+| **CJIS** - Serviço de informações da Justiça Criminal | **HIPAA** - Lei de portabilidade e responsabilidade do seguro de Saúde |
+| **Certificação CSA STAR** | **ISO/IEC 27018**  |
+| **Cláusulas do Modelo da UE**  | **NIST** - National Institute of Satandard and Technology |
+
+### 5.3.1. Política de Privacidade da Microsoft
+
+A política de privacidade da Microsoft promove a abertura e honestidade sobre como a Microsft lida com os dados do usuário coletados de seus produtos e serviços.
+
+A política de privacidade da Microsoft explica:
+- Quais dados a Microsoft processa
+- Como a Microsoft os processa
+- Para quais finalidades os dados são usados
+
+### 5.3.2. Termos dos Serviços Online e adendo de Proteção de Dados
+
+**Termos dos Serviços Online**: Os termos de licenciamento define os termos e condições para produtos e serviços online adquitidos por meio de programas de licenciamento por volume da Microsoft.
+
+**Adendo de Proteção de Dados**: O DPA estabelece as obrigações com relação ao processamento e segurança de dados do cliente e dados pessoais, em relação aos serviços online
+
+### 5.3.3. Trust Center -  Central de Confiabilidade
