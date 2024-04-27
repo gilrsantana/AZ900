@@ -848,3 +848,39 @@ O **Single Sign On** é um serviço que por meio de uma autenticação única vo
 | CanNotDelete     | Sim     | Sim         | Não      |
 | ReadOnly         | Sim     | Não         | Não      |
 
+### 5.2.3. Tags
+
+- Fornecem metadados aos recursos do Azure
+- Organizam os recursos em uma taxoonomia de maneira lógica
+- Consistem em um par nome-valor
+- Muito úteis para reunir informações de cobrança
+
+### 5.2.4. Azure Policy
+
+O Azure Policy ajuda a impor padrões organizacionais e avaliar conformidade em escala. Forneça governaça e consistência de recursos com conformidade regulamentar, segurança, custos e gerenciamento.
+- Avalia e identifica os recursos do Azure que não atendem à sua política
+- Fornece definições de políticas e iniciativas integradas, em categorias como Computação, Segurança, Rede, Armazenamento e Monitoramento.
+
+### 5.2.5. Blueprints
+
+O Azure Blueprint permite que as equipes de desenvolvimento criem e implantem novos ambientes com rapidez. As equipes de desenvolvimento podem desenvolver a confiança rapidamente por meio de conformidade organizacional com um conjunto de componentes integrados (como rede) para acelerar o desenvolvimento e a entrega.
+
+- Atribuições de função
+- Atribuições de política
+- Modelos de Azure Resource Manager
+- Grupos de Recursos
+
+### 5.2.6. Cloud Adoption Framework (CAF)
+
+- Abordagem para adoção de nuvem no Azure
+- Melhores práticas do funcionários, parceiros e clientes Microsoft
+- Ferramentas, orientações e narrativas para entrega de resultados
+
+Princiapis pontos:
+- **Estratégia**: defina a justificativa comercial e resultados esperados
+- **Planejar**: alinhe os planos de adoção acionáveis com os resultados comerciais
+- **Pronto**: prepare o ambiente d enuvem para as ações planejadas
+- **Migrar**: migre e modernize cargas de trabalho existentes
+- **Inovar**: deselvolva novas soluções de nuvem nativas ou híbridas
+- **Controlar**: controle o ambiente e as cargas de trabalho
+- **Gerenciar**: gerenciamento de operações para soluções híbridas e de nuvem
