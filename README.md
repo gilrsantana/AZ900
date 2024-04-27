@@ -913,8 +913,44 @@ A política de privacidade da Microsoft explica:
 
 ### 5.3.2. Termos dos Serviços Online e adendo de Proteção de Dados
 
+[Termos de Uso](https://www.microsoft.com/en-us/legal/terms-of-use).
+
 **Termos dos Serviços Online**: Os termos de licenciamento define os termos e condições para produtos e serviços online adquitidos por meio de programas de licenciamento por volume da Microsoft.
 
 **Adendo de Proteção de Dados**: O DPA estabelece as obrigações com relação ao processamento e segurança de dados do cliente e dados pessoais, em relação aos serviços online
 
 ### 5.3.3. Trust Center -  Central de Confiabilidade
+
+[Central de Confiabilidade](https://www.microsoft.com/pt-br/trust-center).
+
+O site de Central de Confiabilidade fornece:
+- Informações aprofundadas de especialistas
+- Listas curadas de recursos recomendados, organizadas por tópico
+- Informações específicas de função para gerentes de negócio, administradores, engenheiros, avaliadores de risco, agentes de privacidade e equipes jurídicas.
+
+### 5.3.4. Regiões Soberanas do Azure 
+
+#### 5.3.4.1. Serviços do Governo dos EUA
+Atende as necessidades de segurança e conformidade das agÊncias federais dos EUA, governos estaduais e locais e seus provedores de soluções.
+
+Azure Governamental:
+- Instância separada do Azure
+- Fisicamente isolada de implantações que não sejam do governo americano.
+- Acessível somente a pessoal verificado e autorizado.
+
+Exemplos de padrões:
+- FedRAMP
+- NIST 800.171 (DIB)
+- ITAR
+- IRS 1075
+- DoD L2
+- L4 & L5
+- CJIS
+
+#### 5.3.4.2. China
+
+A Microsoft é o primeiro provedor estrangeiro de serviços em nuvem pública da China, em conformidade com as regulamentações governamentais.
+
+Recursos:
+- Instância fisicamente separada dos serviços de nuvem do Azure operados pela **21ViaNet**
+- Todos os dados permanecem dentro da China para garantir a conformidade
