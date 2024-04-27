@@ -37,14 +37,16 @@ Durante um determinado pico eu quero aumentar o uso de um recurso.
 ## 1.2 Tipos de investimento
 
 CapEx e OpEx
-1- CapEx
--> Gasto inicial de dinheiro com infraestrutura física.
--> Tem um valor reduzido ao longo do tempo
+1- CapEx:
 
-2- OpEx
--> Gasto com produtos e serviços pagos conforme o uso
--> Recebe a conta imediatamente
--> Cloud é tudo OpEx
+- Gasto inicial de dinheiro com infraestrutura física.
+- Tem um valor reduzido ao longo do tempo
+
+2- OpEx:
+
+- Gasto com produtos e serviços pagos conforme o uso
+- Recebe a conta imediatamente
+- Cloud é tudo OpEx
 
 ## 1.3 Modelo baseado em Consumo
 
