@@ -956,3 +956,12 @@ A Microsoft é o primeiro provedor estrangeiro de serviços em nuvem pública da
 Recursos:
 - Instância fisicamente separada dos serviços de nuvem do Azure operados pela **21ViaNet**
 - Todos os dados permanecem dentro da China para garantir a conformidade
+
+# 6. Preço e Ciclo de Vida do Azure
+
+## 6.1. Planejamento e gerenciamento de custos - Domínio objetivo
+
+- Identifique fatores que possam afetar custos (tipos de recursos, serviços, localizações, tráfego de entrada e saída)
+- Identifique fatores que possam reduzir custos (instâncias reservadas, capacidade reservada, benefícios de uso híbrido e preço de spots)
+- Descreva a funcionalidade e o uso da calculadora de preços e da calculadora de custo total de propriedade (TCO)
+- Descreva afuncionalidade e o uso do gerenciamento de custos do azure
